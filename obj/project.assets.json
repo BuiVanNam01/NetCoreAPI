@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Net_Core_API\\FirsWebMVC.csproj",
-      "projectName": "FirsWebMVC",
-      "projectPath": "C:\\Net_Core_API\\FirsWebMVC.csproj",
+      "projectUniqueName": "C:\\Net_Core_API\\NewApp.csproj",
+      "projectName": "NewApp",
+      "projectPath": "C:\\Net_Core_API\\NewApp.csproj",
       "packagesPath": "C:\\Users\\NamBui\\.nuget\\packages\\",
       "outputPath": "C:\\Net_Core_API\\obj\\",
       "projectStyle": "PackageReference",
@@ -61,9 +61,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
